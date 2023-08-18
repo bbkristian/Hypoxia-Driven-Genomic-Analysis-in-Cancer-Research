@@ -66,7 +66,3 @@ Our research provided insights into three main areas:
 - DDIT4 (DNA-damage-inducible transcript 4)
 
 The primary genes for both cell lines differ, except for NDRG1. This indicates that the genes predictive of a hypoxic condition are closely tied with the cell line's microenvironment.
-
----
-
-This README provides a comprehensive overview of our research into cancer and genomic studies, focusing on hypoxia's role in cancer recognition. Our findings underscore the importance of understanding the genetic intricacies of different cell lines, paving the way for more targeted and effective cancer treatments in the future.
