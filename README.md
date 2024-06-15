@@ -3,15 +3,6 @@ Cancer genomic research focusing on the role of hypoxia in tumor cell behavior, 
 
 # Cancer and Genomic Research: A Deep Dive into Hypoxia and its Role in Cancer Recognition
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Hypoxia and its Role in Cancer Recognition](#hypoxia-and-its-role-in-cancer-recognition)
-- [Target of this Research](#target-of-this-research)
-- [Preamble: Overview of Data](#preamble-overview-of-data)
-- [Steps of our Analysis](#steps-of-our-analysis)
-- [Conclusions](#conclusions)
-- [Bibliography](#bibliography)
-
 ## Introduction
 
 Tumour development is a multi-stage process where healthy cells transform into malignant tumours due to a series of gene mutations. These mutations accumulate in cells, causing broad cancer types to branch into various sub-types. As cells proliferate and divide, significant gene mutations in tissues lead to changes in cell phenotypes. Consequently, tumour cells evolve based on their microenvironments.
